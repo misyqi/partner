@@ -1,2 +1,3 @@
-# partner
-伙伴匹配系统代码
+# 伙伴匹配系统
+
+> by 编程导航知识星球 https://yupi.icu
